@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Roman, frontend developer from Kiev, Ukraine.
 
 - ⚡️ Currently in ❤️ with [@angular](https://github.com/angular) & [@universal](https://github.com/angular/universal) and [@nestjs](https://github.com/nestjs).
-> Owner: [Temporary mail](http://10minemail.co/)
+> Owner: [Temporary mail](https://email-tmp.com/)
 
 - 🔭 I work in a Ukrainian company (FoodTech)
 
