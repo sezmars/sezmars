@@ -11,4 +11,4 @@
 - 📫 How to reach me: ...
 > Email me : mr.sezmars@gmail.com
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sezmars)](https://github.com/sezmars)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sezmars&show_icons=true&theme=default)
