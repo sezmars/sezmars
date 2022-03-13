@@ -5,7 +5,7 @@
 > 
 > [Temporary mail](https://email-tmp.com/) 📨
 > 
-> [Trade DogeCoin Telegram Bot](https://telegra.ph/Telegram-Trade-Bot--Tradoge-03-10) 💸 - ***now in test mode***
+> [Trade DogeCoin Telegram Bot](https://telegra.ph/Telegram-Trade-Bot--Tradoge-03-10) 💸
 
 - 🔭 I work in a Ukrainian company (FoodTech)
 
