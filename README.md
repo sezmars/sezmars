@@ -7,8 +7,6 @@
 > 
 > [Trade DogeCoin Telegram Bot](https://telegra.ph/Telegram-Trade-Bot--Tradoge-03-10) 💸
 
-- 🔭 I work in a Ukrainian company (FoodTech)
-
 - 🌱 I’m specilized in following FullStack Web technologies...
 > Technology: Angular/Universal, Nestjs, MongoDB/Mongoose, Docker.
 
